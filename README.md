@@ -17,3 +17,33 @@ In order to run the app on the phone, you have to permit location & camara usage
 Home Page
 
 <img width="300" height="600" src="image/home.png"/>
+
+
+Mountain Info Page
+
+<img width="300" height="600" src="image/mountain.png"/>
+
+
+Forum Page
+
+<img width="300" height="600" src="image/forum.png"/>
+
+
+Post Info Page
+
+<img width="300" height="600" src="image/post.png"/>
+
+
+Add a new post
+
+<img width="300" height="600" src="image/add.png"/>
+
+
+Inbox Page
+
+<img width="300" height="600" src="image/inbox.png"/>
+
+
+User Account Page
+
+<img width="300" height="600" src="image/account.png"/>
