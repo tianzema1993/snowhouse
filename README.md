@@ -16,4 +16,4 @@ In order to run the app on the phone, you have to permit location & camara usage
 
 Home Page
 
-<img width="200" height="300" src="image/home.png"/>
+<img width="300" height="600" src="image/home.png"/>
